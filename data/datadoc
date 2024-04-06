@@ -5,4 +5,4 @@ SOP.xlsx
 Where:
   S = Satellite identifier (G = Galileo, J = Juno)
   O = Orbit of Jupiter Ganymede encountered
-  P = Plane of satellite data (PHIO = Phi-Omega)
+  P = Plane of satellite data (PHIO = Phi-Omega,  PC = Planetocentric)
