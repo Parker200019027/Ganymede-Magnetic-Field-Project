@@ -1,1 +1,8 @@
 File containing sat magnetometer data
+
+Data nomenclature:
+SOP.xlsx
+Where:
+  S = Satellite identifier (G = Galileo, J = Juno)
+  O = Orbit of Jupiter Ganymede encountered
+  P = Plane of satellite data (PHIO = Phi-Omega)
